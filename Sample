@@ -1,0 +1,16 @@
+print("HELLO WORLD")
+print("just opening github")
+print("SO EXCITED!!!")
+
+
+number= input("Please enter code : ")
+if number== "95":
+    print("Welcome to futurelance industries. Please wait for further instructions while your program is running.")
+else:
+    print("We are sorry to inform you that you could not be selected for our internship programme.")
+
+print("You are requested to follow the instructions that you will be receiving shortly.")
+print("THANK YOU")
+number= "19"
+if number==19: print("The minimum requirement for the internship has passed but you will be subjected to further analysis.")
+
